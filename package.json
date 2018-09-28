@@ -1,0 +1,15 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "prototype_task_log_app_repo"
+  },
+  "author": "Blaine",
+  "license": "ISC"
+}
